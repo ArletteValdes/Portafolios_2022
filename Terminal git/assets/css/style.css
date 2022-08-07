@@ -1,0 +1,66 @@
+.navbar{
+    background: rgb(2,0,36);
+   
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+margin-bottom: 2rem;
+position: sticky;
+}
+
+.sobremi{
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+   }
+
+
+   
+    .contenedorgeneral{
+        background-color: rgb(2,0,36);
+        background-size: cover;
+    }
+   
+ 
+.Nombre{
+    font-weight: 700;
+}
+
+.card{
+    margin-top: 2rem;
+}
+
+.portada{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+}
+
+.rrss ul li{
+   list-style: none;
+}
+
+
+.icono{
+    height: 50px;
+    width: 50px;
+}
+
+.programas{
+    width: 25rem;
+
+}
+
+.typeform-share{
+    position:fixed;
+}
+
+.oscuro {
+    background: #000f08;
+    color: #ffffff;
+  }
+
+  .oscuro a{
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
